@@ -7,7 +7,7 @@
 ---
 
 ## Architecture 
-![workflow-diagram](https://github.com/user-attachments/assets/533edcfb-8899-4292-9db5-ced973ea0d7c)
+![workflow-agent-orchestration](https://github.com/user-attachments/assets/b641a4d9-b975-43ca-9e8c-1f0318ec4809)
 
 
 
